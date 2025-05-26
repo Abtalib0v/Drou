@@ -1,0 +1,85 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "text": "Drou watch ultra",
+            "image": "/src/assets/13_large.webp",
+            "hovimage": "/src/assets/p4_b019dfc8-3740-44ac-8916-6db66a336feb_large.webp",
+            "price": 238.85,
+            "disprice": 245.80
+          },
+          {
+            "id": 2,
+            "text": "Droubook space gray",
+            "image": "/src/assets/p2_ea1ad2a2-ba0d-4dd2-b29a-e51fd931583b_large.webp",
+            "hovimage": "/src/assets/p1_c084b79e-4c5b-4790-a7fe-00b1eb18b040_large.webp",
+            "price": 238.85,
+            "disprice": 245.80
+          },
+          {
+            "id": 3,
+            "text": "Homepod mini 2022",
+            "image": "/src/assets/13_large.webp",
+            "hovimage": "/src/assets/p4_b019dfc8-3740-44ac-8916-6db66a336feb_large.webp",
+            "price": 238.85,
+            "disprice": 245.80
+          },
+          {
+            "id": 4,
+            "text": "DroSafe Charger",
+            "image": "/src/assets/13_large.webp",
+            "hovimage": "/src/assets/p4_b019dfc8-3740-44ac-8916-6db66a336feb_large.webp",
+            "price": 238.85,
+            "disprice": 245.80
+          },
+          {
+            "id": 5,
+            "text": "Home entertainment",
+            "image": "/src/assets/13_large.webp",
+            "hovimage": "/src/assets/p4_b019dfc8-3740-44ac-8916-6db66a336feb_large.webp",
+            "price": 238.85,
+            "disprice": 245.80
+          },
+          {
+            "id": 6,
+            "text": "Hodo Foods",
+            "image": "/src/assets/13_large.webp",
+            "hovimage": "/src/assets/p4_b019dfc8-3740-44ac-8916-6db66a336feb_large.webp",
+            "price": 238.85,
+            "disprice": 245.80
+          },
+          {
+            "id": 7,
+            "text": "Hodo Foods",
+            "image": "/src/assets/13_large.webp",
+            "hovimage": "/src/assets/p4_b019dfc8-3740-44ac-8916-6db66a336feb_large.webp",
+            "price": 238.85,
+            "disprice": 245.80
+          },
+          {
+            "id": 8,
+            "text": "Hodo Foods",
+            "image": "/src/assets/13_large.webp",
+            "hovimage": "/src/assets/p4_b019dfc8-3740-44ac-8916-6db66a336feb_large.webp",
+            "price": 238.85,
+            "disprice": 245.80
+          },
+          {
+            "id": 9,
+            "text": "Hodo Foods",
+            "image": "/src/assets/13_large.webp",
+            "hovimage": "/src/assets/p4_b019dfc8-3740-44ac-8916-6db66a336feb_large.webp",
+            "price": 238.85,
+            "disprice": 245.80
+          },
+          {
+            "id": 10,
+            "text": "Hodo Foods",
+            "image": "/src/assets/13_large.webp",
+            "hovimage": "/src/assets/p4_b019dfc8-3740-44ac-8916-6db66a336feb_large.webp",
+            "price": 238.85,
+            "disprice": 245.80
+          }
+          
+    ]
+}
