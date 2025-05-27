@@ -1,13 +1,13 @@
 import React from "react";
+import BasketDrawer from "../BasketDrawer";
 
 export default function ProductCards({
-    image,
-    hovimage,
-    text,
-    price,
-    disprice
-
-}){
+  image,
+  hovimage,
+  text,
+  price,
+  disprice,
+}) {
   return (
     <div className="relative group container flex h-[364px]  px-[7px] mx-auto shadow-lg">
       <div className="image">
@@ -25,14 +25,17 @@ export default function ProductCards({
       </div>
       <div className="absolute bottom-[30px] left-[29%] text-center">
         <div></div>
-      <div className="title text-[18px] ">
-        <h1>{text}</h1>
-        <div className="price flex gap-3">
-          <h2 className="text-[18px] font-bold text-[#e52e06]">${price}</h2> <span className=" line-through text-[15px]">${disprice}</span>
+        <div className="title text-[18px] ">
+          <h1>{text}</h1>
+          <div className="price flex gap-3">
+            <h2 className="text-[18px] font-bold text-[#e52e06]">${price}</h2>{" "}
+            <span className=" line-through text-[15px]">${disprice}</span>
+          </div>
+          <div>
+            <BasketDrawer/>
+            </div>{" "}
         </div>
       </div>
-      </div>
-      
     </div>
-  );}
-
+  );
+}
