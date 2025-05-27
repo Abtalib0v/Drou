@@ -23,11 +23,11 @@ export default function ProductCards({
           alt=""
         />
       </div>
-      <div className="absolute bottom-[30px] left-[29%] text-center">
+      <div className="absolute bottom-[5px] left-[20%] text-center">
         <div></div>
         <div className="title text-[18px] ">
           <h1>{text}</h1>
-          <div className="price flex gap-3">
+          <div className="price flex justify-center gap-3">
             <h2 className="text-[18px] font-bold text-[#e52e06]">${price}</h2>{" "}
             <span className=" line-through text-[15px]">${disprice}</span>
           </div>
