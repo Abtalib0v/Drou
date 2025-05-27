@@ -81,5 +81,14 @@
             "disprice": 245.80
           }
           
+    ],
+    "customer":[
+{
+  "id": 1,
+  "text":"Great quality!",
+  "desc":"This is a great design and I hope that we will create a website with a good signature. Team90Degree team is reactive and kind. Thanks for the help so far.",
+  "name":"David smith",
+  "about":"Developer, Canada"
+}
     ]
 }
